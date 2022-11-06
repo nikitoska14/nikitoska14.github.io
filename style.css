@@ -1,0 +1,50 @@
+*{box-sizing: border-box;}
+  header{ background-attachment: fixed;
+            background-color: grey;
+            padding:10px 5%; 
+             margin:0px 0px;}
+.logo { color: rgb(152, 247, 27);
+       font-family: 'Raleway', Arial, sans-serif;
+       text-align: center;
+       font-size: 25px;}
+.lom { display:flex;
+       justify-content:space-around;
+       color: white;}
+.osn{ background-image:url(https://www.sechenov.ru/upload/medialibrary/6a2/Depositphotos_173674000_l_2015_compressor.jpg);
+             background-repeat:no-repeat;
+             background-size:cover;
+             background-attachment: fixed;}
+.text{color: rgb(152, 247, 27);
+      font-size:35px;
+      padding:10% 2%;
+      text-align:left;} 
+ .ham{
+    color:black;
+    font-size:40px;
+    padding: 0%;
+    text-align:left;
+      } 
+.bloc{
+       
+       background-color:rgb(152, 247, 27) ;
+       height: 110px;
+       width: 400px;
+       border-radius: 280px/100px;
+       display:flex;
+       justify-content:space-around;
+       align-items: flex-start;
+       align-content: center;
+     }
+.let{
+    justify-content: flex-end;
+}
+.ubl{
+    color: black;
+     text-align: center;
+     font-size:20px;
+     padding: 3%;
+     }
+h2{
+   font-size:40px; 
+}
+    
